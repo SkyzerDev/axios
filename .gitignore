@@ -4,6 +4,7 @@
 .DS_Store
 node_modules/
 coverage/
+compose-dev.yaml
 test/typescript/axios.js*
 sauce_connect.log
 test/module/**/package-lock.json
